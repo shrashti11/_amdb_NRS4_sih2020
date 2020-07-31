@@ -1,0 +1,2 @@
+# _amdb_NRS4_sih2020
+Project intents to Create Aerodrome Maps and Charts using feature extraction from Satellite Imagery and blending that with existing Aerodrome Maps and provide an interactive 2D map containing a spatial layout of the acrodrome in terms of features (e.g. runways, taxiways, parking stands) with geometry described as points, lines or polygons, and with attributes (eg, surface type).
