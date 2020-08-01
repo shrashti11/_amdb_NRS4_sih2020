@@ -40,14 +40,20 @@ To verify that Django can be seen by Python, type python from your shell. Then a
 Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
 
-Usage
+Output
+
 https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg
+https://user-images.githubusercontent.com/52295576/89100780-eea85180-d3ae-11ea-99a4-36d1fae12019.jpg
 
 
-For more examples, please refer to the Documentation
+For more examples, please refer to the issues.
 
 Roadmap
-See the open issues for a list of proposed features (and known issues).
+
+1. Spatial Layout
+2. 2-D Interactive Satellite Imagery of Indian Airport
+3. User Controls
+4. 
 
 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
