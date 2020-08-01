@@ -16,7 +16,7 @@ However, to run the app locally in the machine, you would require:
 
 Installation
 
-1. Python latest version : https//python.org/
+1. Python latest version : https://www.python.org/
 2. Get a free API Key at : https://developers.google.com
 3. VS Code Download : https://code.visualstudio.com 
 
@@ -42,6 +42,7 @@ const API_KEY = 'ENTER YOUR API';
 
 Usage
 https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg
+
 
 For more examples, please refer to the Documentation
 
