@@ -41,7 +41,7 @@ Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
 
 Usage
-<a href="C:\Users\a\Desktop\sih_2020\Frontend\img1.png"></a>
+
 
 For more examples, please refer to the Documentation
 
