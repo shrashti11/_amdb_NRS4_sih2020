@@ -1,0 +1,30 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.para{
+	color: grey;
+	font-size: 25px;
+	text-align: left;
+	line-height: 25px;
+}
+.box{
+  width: 280px;
+  position: absolute;
+  top: 93%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.btn{
+  width: 100%;
+  background:#D2691E;
+  border: 2px solid white;
+  color: white;
+  padding: 5px;
+  font-size: 21px;
+  cursor: pointer;
+  margin: 12px 0;
+}
