@@ -42,8 +42,8 @@ const API_KEY = 'ENTER YOUR API';
 
 Output
 
-https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg
-https://user-images.githubusercontent.com/52295576/89100780-eea85180-d3ae-11ea-99a4-36d1fae12019.jpg
+<a href="https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg"></a>
+<a href="https://user-images.githubusercontent.com/52295576/89100780-eea85180-d3ae-11ea-99a4-36d1fae12019.jpg"></a>
 
 
 For more examples, please refer to the issues.
@@ -53,33 +53,11 @@ Roadmap
 1. Spatial Layout
 2. 2-D Interactive Satellite Imagery of Indian Airport
 3. User Controls
-4. 
 
 Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
-
 Contact
-Your Name - @your_twitter - email@example.com
+shrashti1199@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
-
-Acknowledgements
-GitHub Emoji Cheat Sheet
-Img Shields
-Choose an Open Source License
-GitHub Pages
-Animate.css
-Loaders.css
-Slick Carousel
-Smooth Scroll
-Sticky Kit
-JVectorMap
-Font Awesome
+Project Link: https://github.com/shrashti11/_amdb_NRS4_sih2020
