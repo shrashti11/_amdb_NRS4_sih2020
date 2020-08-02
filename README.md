@@ -42,8 +42,8 @@ const API_KEY = 'ENTER YOUR API';
 
 Output
 
-<a href="https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg"></a>
-<a href="https://user-images.githubusercontent.com/52295576/89100780-eea85180-d3ae-11ea-99a4-36d1fae12019.jpg"></a>
+https://user-images.githubusercontent.com/52295576/89100767-ccaecf00-d3ae-11ea-9655-4b5dc137c716.jpg/
+https://user-images.githubusercontent.com/52295576/89100780-eea85180-d3ae-11ea-99a4-36d1fae12019.jpg/
 
 
 For more examples, please refer to the issues.
